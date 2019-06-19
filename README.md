@@ -1,2 +1,2 @@
 # javascript-ds-and-algo
-All Algorithms and data structures coded in JavaScript
+Data structures and Algorithms coded in JavaScript
