@@ -1,6 +1,6 @@
 # javascript-ds-and-algo
 Data structures and Algorithms coded in JavaScript
 
-### How to run any file ?
+## How to run any file ?
 
-`node src/searching/LinearSearch.js`
+Example: `node src/searching/LinearSearch.js`
