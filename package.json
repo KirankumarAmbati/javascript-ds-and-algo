@@ -1,0 +1,24 @@
+{
+  "name": "javascript-ds-and-algo",
+  "version": "1.0.0",
+  "description": "Data structures and Algorithms coded in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirankumarAmbati/javascript-ds-and-algo.git"
+  },
+  "keywords": [
+    "datastructures",
+    "javascript",
+    "algorithms"
+  ],
+  "author": "Kirankumar Ambati",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KirankumarAmbati/javascript-ds-and-algo/issues"
+  },
+  "homepage": "https://github.com/KirankumarAmbati/javascript-ds-and-algo#readme"
+}
